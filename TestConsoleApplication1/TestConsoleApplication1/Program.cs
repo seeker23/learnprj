@@ -15,7 +15,6 @@ namespace TestConsoleApplication1
             Console.WriteLine("test");
             Console.WriteLine("test");
             Console.WriteLine("test");
-            Console.WriteLine("test");
             Console.ReadLine();
         }
     }
