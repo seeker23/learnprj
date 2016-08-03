@@ -10,6 +10,7 @@ namespace TestConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test");
         }
     }
 }
