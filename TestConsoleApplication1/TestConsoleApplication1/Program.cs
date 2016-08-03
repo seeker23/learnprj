@@ -11,6 +11,11 @@ namespace TestConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.WriteLine("test");
+            Console.ReadLine();
         }
     }
 }
